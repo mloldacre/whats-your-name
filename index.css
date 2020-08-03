@@ -1,0 +1,12 @@
+form, .results {
+  margin-top: 50px;
+}
+
+.results{
+  text-align:center;
+  font-family:sans-serif;
+}
+
+label {
+  display: block;
+}
